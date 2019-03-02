@@ -17,7 +17,7 @@ Research questions to answer:
 Data sources: Linkedin, BLS, Kaggle
 
 1st tasks: exploring what the APIs will actually give us and decide if it's enough or if we need more/other sources.
-LinkedIn - Laurel
+LinkedIn - Laurel / Jeff
+
 BLS - Tunde
-Kaggle - Jeff
  
