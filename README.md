@@ -1,6 +1,6 @@
 Data Science employment prospects
 
-Team - Tunde Lawson, Jeff Fleischman, Laurel Stewart
+Team - Tunde Lawson, Jeff Fleischman, Laurel Stewart, April Schoenfeld
 
 Description - 
 An analysis of the trends in data science job openings: trends over time, salaries, best places to live or move to.
@@ -21,4 +21,5 @@ Data sources: Linkedin, BLS, Kaggle
 LinkedIn - Laurel / Jeff
 
 BLS - Tunde
- 
+
+Cost of Living - April 
