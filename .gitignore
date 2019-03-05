@@ -1,1 +1,3 @@
-geek.txt
+### JupyterNotebook ###
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
