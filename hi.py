@@ -1,2 +1,0 @@
-hi from Laurel
-greetings
