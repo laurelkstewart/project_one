@@ -28,11 +28,11 @@ Research questions to answer:
   B. Current - LinkedIn (Status: Complete) 
 7. Forward looking Projections - Conclusion Slide (Status: Not Started) 
 
-Data sources: Linkedin, BLS, Kaggle, TBD CoL Data Sources
+Data sources: Linkedin, Indeed.com, BLS, Kaggle, TBD CoL Data Sources
 
 1st tasks: exploring what the APIs will actually give us and decide if it's enough or if we need more/other sources.
 
-LinkedIn - Laurel / Jeff
+LinkedIn, Indeed.com - Laurel / Jeff
 
 BLS - Tunde
 
