@@ -1,0 +1,284 @@
+,city,openings,lat,long,g_metro,state_1
+0,"New York, NY",169,40.7127753,-74.0059728,United States,NY
+1,"Boston, MA",158,42.3600825,-71.0588801,Massachusetts,MA
+2,"Charlotte, NC",106,35.2270869,-80.8431267,Mecklenburg County,NC
+3,"Philadelphia, PA",102,39.9525839,-75.1652215,Pennsylvania,PA
+4,"Irving, TX",101,32.8140177,-96.9488945,Texas,TX
+5,"Yakima, WA",99,46.6020711,-120.5058987,Washington,WA
+6,"San Francisco, CA",60,37.7749295,-122.4194155,California,CA
+7,"Arlington, VA",48,38.8816208,-77.09098089999999,Virginia,VA
+8,"Chicago, IL",31,41.8781136,-87.6297982,Illinois,IL
+9,"Conshohocken, PA",23,40.0792766,-75.3015714,Pennsylvania,PA
+10,"Austin, TX",20,30.267153,-97.7430608,Texas,TX
+11,"Washington, DC",19,38.9071923,-77.0368707,District of Columbia,DC
+12,"Seattle, WA",17,47.6062095,-122.3320708,Washington,WA
+13,"Palo Alto, CA",17,37.4418834,-122.1430195,California,CA
+14,"Bellevue, WA",16,47.6101497,-122.2015159,Washington,WA
+15,"Sunnyvale, CA",13,37.36883,-122.0363496,California,CA
+16,"Houston, TX",12,29.7604267,-95.3698028,Texas,TX
+17,"Los Angeles, CA",12,34.0522342,-118.2436849,California,CA
+18,"Phoenix, AZ",11,33.4483771,-112.0740373,Arizona,AZ
+19,"San Jose, CA",11,37.3382082,-121.8863286,California,CA
+20,"Atlanta, GA",11,33.7489954,-84.3879824,Georgia,GA
+21,"Santa Clara Valley, CA",10,37.2488478,-121.8399593,San Jose,CA
+22,"Santa Clara, CA",9,37.3541079,-121.9552356,California,CA
+23,"Cambridge, MA",8,42.3736158,-71.10973349999999,Massachusetts,MA
+24,"Mountain View, CA",7,37.3860517,-122.0838511,California,CA
+25,"Portland, OR",7,45.5122308,-122.6587185,Oregon,OR
+26,"Salt Lake City, UT",7,40.7607793,-111.8910474,Utah,UT
+27,"Irvine, CA",7,33.6845673,-117.8265049,California,CA
+28,"Redmond, WA",6,47.6739881,-122.121512,Washington,WA
+29,"Raleigh, NC",6,35.7795897,-78.6381787,North Carolina,NC
+30,"Plano, TX",6,33.0198431,-96.6988856,Texas,TX
+31,"San Diego, CA",6,32.715738,-117.1610838,California,CA
+32,"Milpitas, CA",6,37.4323341,-121.8995741,California,CA
+33,"Denver, CO",6,39.7392358,-104.990251,Colorado,CO
+34,"Dallas, TX",6,32.7766642,-96.79698789999999,Texas,TX
+35,"Menlo Park, CA",5,37.4529598,-122.1817252,California,CA
+36,"Richmond, VA",5,37.5407246,-77.4360481,United States,VA
+37,"San Mateo, CA",5,37.5629917,-122.3255254,California,CA
+38,"Pittsburgh, PA",5,40.44062479999999,-79.9958864,Pennsylvania,PA
+39,"Bedford, MA",5,42.4906231,-71.2760089,Massachusetts,MA
+40,"Tysons, VA",4,38.9187222,-77.2310925,Fairfax County,VA
+41,"McLean, VA",4,38.9338676,-77.1772604,Fairfax County,VA
+42,"Santa Barbara, CA",4,34.4208305,-119.6981901,California,CA
+43,"San Bruno, CA",4,37.6304904,-122.4110835,California,CA
+44,"Reston, VA",4,38.9586307,-77.35700279999999,Fairfax County,VA
+45,"Redwood City, CA",4,37.48521520000001,-122.2363548,California,CA
+46,"Windsor Locks, CT",4,41.9242917,-72.6454469,Connecticut,CT
+47,"Carlsbad, CA",4,33.1580933,-117.3505939,California,CA
+48,"Livermore, CA",4,37.6818745,-121.7680088,California,CA
+49,"Princeton, NJ",4,40.3572976,-74.6672226,New Jersey,NJ
+50,"Rockville, MD",4,39.0839973,-77.1527578,Montgomery County,MD
+51,"Thousand Oaks, CA",4,34.1705609,-118.8375937,California,CA
+52,"Oklahoma City, OK",4,35.4675602,-97.5164276,Oklahoma,OK
+53,"Wilmington, DE",3,39.744655,-75.5483909,Delaware,DE
+54,"St. Louis, MO",3,38.6270025,-90.19940419999999,United States,MO
+55,"Pasadena, CA",3,34.1477849,-118.1445155,California,CA
+56,"New Orleans, LA",3,29.95106579999999,-90.0715323,Louisiana,LA
+57,"Richardson, TX",3,32.9483335,-96.7298519,Texas,TX
+58,"Boulder, CO",3,40.0149856,-105.2705456,Colorado,CO
+59,"Shelton, CT",3,41.3164856,-73.0931641,Connecticut,CT
+60,"Fort Worth, TX",3,32.7554883,-97.3307658,Texas,TX
+61,"Oakland, CA",3,37.8043637,-122.2711137,California,CA
+62,"Holmdel, NJ",3,40.3451095,-74.18403219999999,New Jersey,NJ
+63,"Chesterfield, MO",3,38.6631083,-90.5770675,Missouri,MO
+64,"Parsippany, NJ",3,40.8652865,-74.41738769999999,New Jersey,NJ
+65,"Milwaukee, WI",3,43.0389025,-87.9064736,Wisconsin,WI
+66,"Huntsville, AL",3,34.7303688,-86.5861037,Alabama,AL
+67,"Indianapolis, IN",3,39.768403,-86.158068,Indiana,IN
+68,"Greensboro, NC",3,36.0726354,-79.7919754,North Carolina,NC
+69,"Sacramento, CA",3,38.5815719,-121.4943996,California,CA
+70,"Tempe, AZ",3,33.4255104,-111.9400054,Arizona,AZ
+71,"Armonk, NY",3,41.1264849,-73.71401949999999,Westchester County,NY
+72,"Durham, NC",3,35.9940329,-78.898619,North Carolina,NC
+73,"Conway, AR",3,35.0886963,-92.4421011,Faulkner County,AR
+74,"Renton, WA",3,47.4796927,-122.2079218,Washington,WA
+75,"Jersey City, NJ",3,40.7177545,-74.0431435,New Jersey,NJ
+76,"Bloomington, MN",3,44.840798,-93.2982799,Hennepin County,MN
+77,"Longmont, CO",2,40.1672068,-105.1019275,Colorado,CO
+78,"Glendale, CA",2,34.1425078,-118.255075,California,CA
+79,"Lombard, IL",2,41.8800296,-88.00784349999999,DuPage County,IL
+80,"Orlando, FL",2,28.5383355,-81.3792365,Florida,FL
+81,"San Antonio, TX",2,29.4241219,-98.49362819999999,Texas,TX
+82,"Eden Prairie, MN",2,44.8546856,-93.47078599999999,Minnesota,MN
+83,"Manassas, VA",2,38.7509488,-77.47526669999999,United States,VA
+84,"Columbus, OH",2,39.9611755,-82.99879419999999,Ohio,OH
+85,"Draper, UT",2,40.5246711,-111.8638226,Utah,UT
+86,"Green Bay, WI",2,44.5133188,-88.0132958,Wisconsin,WI
+87,"Madison, WI",2,43.0730517,-89.4012302,Wisconsin,WI
+88,"Lansing, MI",2,42.732535,-84.5555347,Ingham County,MI
+89,"Urbandale, IA",2,41.6266555,-93.71216559999999,Polk County,IA
+90,"Provo, UT",2,40.2338438,-111.6585337,Utah,UT
+91,"Columbia, MD",2,39.2037144,-76.86104619999999,Maryland,MD
+92,"Edison, NJ",2,40.5187154,-74.4120953,New Jersey,NJ
+93,"Culver City, CA",2,34.0211224,-118.3964665,California,CA
+94,"Basking Ridge, NJ",2,40.7066174,-74.5493284,Harding Township,NJ
+95,"Malvern, PA",2,40.0362184,-75.5138118,Pennsylvania,PA
+96,"Mountain View, OR",2,42.1120831,-122.3841882,Oregon,OR
+97,"Vienna, VA",2,38.9012225,-77.2652604,Fairfax County,VA
+98,"Waltham, MA",2,42.3764852,-71.2356113,Massachusetts,MA
+99,"Golden, CO",2,39.755543,-105.2210997,Colorado,CO
+100,"Berkeley, CA",2,37.8715926,-122.272747,California,CA
+101,"Tarrytown, NY",2,41.0762077,-73.85874609999999,Westchester County,NY
+102,"Secaucus, NJ",2,40.7895453,-74.05652979999999,New Jersey,NJ
+103,"Alpharetta, GA",2,34.0753762,-84.2940899,Georgia,GA
+104,"Poway, CA",2,32.9628232,-117.0358646,California,CA
+105,"Stanford, CA",2,37.42410599999999,-122.1660756,California,CA
+106,"Colorado Springs, CO",2,38.8338816,-104.8213634,Colorado,CO
+107,"North Salt Lake, UT",2,40.8485564,-111.9068824,Utah,UT
+108,"Brooklyn, NY",2,40.6781784,-73.9441579,New York,NY
+109,"Raleigh-Durham, NC",2,35.8991678,-78.86364019999999,Triangle,NC
+110,"House, NM",2,34.6467327,-103.904411,New Mexico,NM
+111,"Charlottesville, VA",2,38.0293059,-78.47667810000002,Virginia,VA
+112,"Ann Arbor, MI",2,42.2808256,-83.7430378,Michigan,MI
+113,"Round Lake, IL",2,42.353355,-88.0934145,Illinois,IL
+114,"Newport Beach, CA",2,33.6188829,-117.9298493,California,CA
+115,"High Point, NC",2,35.9556923,-80.0053176,North Carolina,NC
+116,"Boise, ID",2,43.6150186,-116.2023137,Idaho,ID
+117,"Alexandria, VA",2,38.8048355,-77.0469214,Virginia,VA
+118,"Bozeman, MT",2,45.6769979,-111.0429339,Montana,MT
+119,"Wichita, KS",2,37.68717609999999,-97.33005299999999,Kansas,KS
+120,"Stamford, CT",2,41.0534302,-73.5387341,Connecticut,CT
+121,"Morrisville, NC",2,35.823483,-78.8255621,Wake County,NC
+122,"Boca Raton, FL",2,26.3683064,-80.1289321,Florida,FL
+123,"San Luis Obispo, CA",2,35.2827524,-120.6596156,California,CA
+124,"Louisville, KY",2,38.2526647,-85.7584557,Kentucky,KY
+125,"Costa Mesa, CA",2,33.6412156,-117.9188221,California,CA
+126,"Rocky Hill, CT",2,41.6572525,-72.66557569999999,Connecticut,CT
+127,"Williamsburg, VA",2,37.2707022,-76.7074571,United States,VA
+128,"Montpelier, VT",2,44.26005929999999,-72.5753869,Vermont,VT
+129,"Albany, NY",2,42.6525793,-73.7562317,New York,NY
+130,"Chantilly, VA",2,38.8942786,-77.43109919999999,Fairfax County,VA
+131,"Minneapolis, MN",2,44.977753,-93.2650108,Minnesota,MN
+132,"Santa Monica, CA",2,34.0194543,-118.4911912,California,CA
+133,"Melville, NY",2,40.7934322,-73.41512139999999,Suffolk County,NY
+134,"Fort Collins, CO",1,40.5852602,-105.084423,Colorado,CO
+135,"Fort Huachuca, AZ",1,31.5552157,-110.3499216,Cochise County,AZ
+136,"Dublin, CA",1,37.7021521,-121.9357918,California,CA
+137,"Teaneck, NJ",1,40.8932469,-74.0116536,New Jersey,NJ
+138,"O'Fallon, MO",1,38.8106075,-90.69984769999999,Missouri,MO
+139,"Silver Spring, MD",1,38.99066570000001,-77.026088,Montgomery County,MD
+140,"Dodgeville, WI",1,42.96027429999999,-90.1301237,Iowa County,WI
+141,"Linthicum Heights, MD",1,39.2051077,-76.6527456,Anne Arundel County,MD
+142,"Stillwater, OK",1,36.1156071,-97.0583681,Oklahoma,OK
+143,"Tampa, FL",1,27.950575,-82.4571776,Florida,FL
+144,"Richland, WA",1,46.28042000000001,-119.2751996,Washington,WA
+145,"Endwell, NY",1,42.1128525,-76.021034,Broome County,NY
+146,"Stony Brook, NY",1,40.9256538,-73.1409429,Suffolk County,NY
+147,"Detroit, MI",1,42.331427,-83.0457538,Michigan,MI
+148,"Troy, NY",1,42.7284117,-73.69178509999999,New York,NY
+149,"Cedar Rapids, IA",1,41.9778795,-91.6656232,Iowa,IA
+150,"Kirkland, WA",1,47.6768927,-122.2059833,Washington,WA
+151,"Northampton, MA",1,42.3250896,-72.64120129999999,Massachusetts,MA
+152,"Rahway, NJ",1,40.60815909999999,-74.2776468,New Jersey,NJ
+153,"Dublin, OH",1,40.0992294,-83.1140771,Ohio,OH
+154,"Kalamazoo, MI",1,42.2917069,-85.5872286,Michigan,MI
+155,"East Hartford, CT",1,41.7634219,-72.6128339,Hartford County,CT
+156,"Venice, CA",1,33.9850469,-118.4694832,Los Angeles County,CA
+157,"Minnetonka, MN",1,44.9211836,-93.4687489,Minnesota,MN
+158,"Portsmouth, NH",1,43.0717552,-70.7625532,Rockingham County,NH
+159,"Des Moines, IA",1,41.5868353,-93.6249593,Iowa,IA
+160,"Gray Summit, MO",1,38.489775,-90.8168008,Franklin County,MO
+161,"Hershey, PA",1,40.2859239,-76.65024679999999,Dauphin County,PA
+162,"umbc campus, MD",1,39.2556759,-76.7109674,Baltimore,MD
+163,"Eagan, MN",1,44.8041322,-93.1668858,Minnesota,MN
+164,"Whitehall, MI",1,43.4100107,-86.34867919999999,Muskegon County,MI
+165,"Spring House, PA",1,40.1853862,-75.2276756,Montgomery County,PA
+166,"Ellicott City, MD",1,39.2673283,-76.7983067,Maryland,MD
+167,"Manhattan, NY",1,40.7830603,-73.9712488,New York County,NY
+168,"Memphis, TN",1,35.1495343,-90.0489801,Tennessee,TN
+169,"Hillsboro, OR",1,45.5200114,-122.9365835,Oregon,OR
+170,"South Plainfield, NJ",1,40.5792701,-74.4115401,New Jersey,NJ
+171,"Buena Park, CA",1,33.8674044,-117.9981387,California,CA
+172,"Newark, CA",1,37.5296593,-122.0402399,California,CA
+173,"Aliso Viejo, CA",1,33.5684605,-117.7262981,California,CA
+174,"Santa Fe, NM",1,35.6869752,-105.937799,New Mexico,NM
+175,"Bedford, NH",1,42.9463291,-71.51320079999999,New Hampshire,NH
+176,"Needham, MA",1,42.2809285,-71.23775479999999,Norfolk County,MA
+177,"Bannockburn, IL",1,42.1933581,-87.8664579,Lake County,IL
+178,"South Amboy, NJ",1,40.4778838,-74.290702,New Jersey,NJ
+179,"Reno, NV",1,39.5296329,-119.8138027,Nevada,NV
+180,"Champaign, IL",1,40.1164204,-88.2433829,Champaign County,IL
+181,"Bothell, WA",1,47.76011099999999,-122.2054452,Washington,WA
+182,"Ronkonkoma, NY",1,40.80641869999999,-73.1241488,Suffolk County,NY
+183,"San Leandro, CA",1,37.7249296,-122.1560768,California,CA
+184,"New Brunswick, NJ",1,40.4862157,-74.4518188,New Jersey,NJ
+185,"Los Alamos, NM",1,35.8800364,-106.3031138,New Mexico,NM
+186,"Aurora, CO",1,39.7294319,-104.8319195,Colorado,CO
+187,"Campbell, CA",1,37.2871651,-121.9499568,California,CA
+188,"Sterling, VA",1,39.0066993,-77.4291298,Virginia,VA
+189,"Lake Forest, IL",1,42.2586342,-87.840625,Illinois,IL
+190,"Miami, FL",1,25.7616798,-80.1917902,Florida,FL
+191,"Spartanburg, SC",1,34.9495672,-81.9320482,South Carolina,SC
+192,"Missouri City, TX",1,29.6185669,-95.5377215,Texas,TX
+193,"San Francisco Bay Area, CA",1,37.8271784,-122.2913078,United States,CA
+194,"Jupiter, FL",1,26.9342246,-80.0942087,Florida,FL
+195,"Anoka, MN",1,45.1977428,-93.3871758,Minnesota,MN
+196,"Downers Grove, IL",1,41.8089191,-88.01117459999999,Illinois,IL
+197,"Worcester, MA",1,42.2625932,-71.8022934,Massachusetts,MA
+198,"Framingham, MA",1,42.279286,-71.4161565,Massachusetts,MA
+199,"Gaithersburg, MD",1,39.1434406,-77.2013705,Montgomery County,MD
+200,"Las Vegas, NV",1,36.1699412,-115.1398296,Nevada,NV
+201,"College Park, MD",1,38.9896967,-76.93776,Prince George's County,MD
+202,"Lewisville, TX",1,33.046233,-96.994174,Texas,TX
+203,"Murray, UT",1,40.6668916,-111.8879909,Utah,UT
+204,"Reynoldsburg, OH",1,39.9547861,-82.81211909999999,Franklin County,OH
+205,"Cincinnati, OH",1,39.1031182,-84.5120196,Ohio,OH
+206,"Blue Bell, PA",1,40.1523309,-75.26628900000001,Montgomery County,PA
+207,"Chico, CA",1,39.7284944,-121.8374777,California,CA
+208,"Moses, WA",1,47.1301417,-119.2780771,Washington,WA
+209,"Pearland, TX",1,29.5635666,-95.2860474,Texas,TX
+210,"Moses Lake, WA",1,47.1301417,-119.2780771,Washington,WA
+211,"Ithaca, NY",1,42.4439614,-76.5018807,Tompkins County,NY
+212,"Newark, DE",1,39.6837226,-75.74965720000002,Delaware,DE
+213,"Springfield, VA",1,38.7892801,-77.18720359999999,Fairfax County,VA
+214,"Ambler, PA",1,40.1545535,-75.22156509999999,Pennsylvania,PA
+215,"Centennial, CO",1,39.5807452,-104.8771726,Colorado,CO
+216,"Winston-Salem, NC",1,36.09985959999999,-80.244216,Forsyth County,NC
+217,"Temple Terrace, FL",1,28.0352964,-82.3892596,Florida,FL
+218,"Birmingham, AL",1,33.5185892,-86.8103567,Alabama,AL
+219,"Redlands, CA",1,34.0555693,-117.1825381,California,CA
+220,"Montvale, NJ",1,41.0467635,-74.0229173,New Jersey,NJ
+221,"Sugar Land, TX",1,29.6196787,-95.6349463,Texas,TX
+222,"Hillsborough, NC",1,36.0754183,-79.0997347,Orange County,NC
+223,"Fort Lauderdale, FL",1,26.1224386,-80.13731740000001,Florida,FL
+224,"Cleveland, OH",1,41.49932,-81.6943605,Ohio,OH
+225,"San Carlos, CA",1,37.5071591,-122.2605222,California,CA
+226,"Watertown, MA",1,42.3709299,-71.1828321,Massachusetts,MA
+227,"Clearwater, FL",1,27.9658533,-82.8001026,Florida,FL
+228,"Garden Grove, CA",1,33.7742692,-117.9379952,California,CA
+229,"Westminster, CA",1,33.7591757,-117.9897058,California,CA
+230,"Schaumburg, IL",1,42.0333607,-88.0834059,Cook County,IL
+231,"Providence, RI",1,41.8239891,-71.4128343,Rhode Island,RI
+232,"Kalama, WA",1,46.0084472,-122.8445508,Washington,WA
+233,"Auburn Hills, MI",1,42.6875323,-83.2341028,Michigan,MI
+234,"South Portland, ME",1,43.6414716,-70.2408811,Maine,ME
+235,"Mason, OH",1,39.3600586,-84.309939,Warren County,OH
+236,"Rochester, NY",1,43.15657789999999,-77.6088465,New York,NY
+237,"Vancouver, WA",1,45.6272259,-122.6727305,Washington,WA
+238,"Northville, MI",1,42.4311464,-83.4832692,Michigan,MI
+239,"Southfield, MI",1,42.4733688,-83.2218731,Michigan,MI
+240,"Dayton, OH",1,39.7589478,-84.1916069,Montgomery County,OH
+241,"Naperville, IL",1,41.7508391,-88.1535352,Illinois,IL
+242,"Somerville, MA",1,42.3875968,-71.0994968,Massachusetts,MA
+243,"Chesapeake, VA",1,36.7682088,-76.2874927,United States,VA
+244,"Spring, TX",1,30.0799405,-95.41716009999999,Texas,TX
+245,"Omaha, NE",1,41.2565369,-95.9345034,Douglas County,NE
+246,"Lenexa, KS",1,38.9536174,-94.73357089999999,Kansas,KS
+247,"Middleton, WI",1,43.09721740000001,-89.5042876,Wisconsin,WI
+248,"Nashville, TN",1,36.1626638,-86.7816016,Tennessee,TN
+249,"Burlingame, CA",1,37.5778696,-122.34809,California,CA
+250,"Estero, FL",1,26.438136,-81.8067523,Florida,FL
+251,"Orange, CA",1,33.7879139,-117.8531007,California,CA
+252,"Little Rock, AR",1,34.7464809,-92.28959479999999,Pulaski County,AR
+253,"Woodland Hills, CA",1,34.165357,-118.6089752,Los Angeles County,CA
+254,"Northbrook, IL",1,42.1275267,-87.82895479999999,Cook County,IL
+255,"South Bend, IN",1,41.6763545,-86.25198979999999,St. Joseph County,IN
+256,"Kansas City, MO",1,39.0997265,-94.5785667,Missouri,MO
+257,"Lagrange, KY",1,38.4075666,-85.37884679999999,Kentucky,KY
+258,"Lakeland, FL",1,28.0394654,-81.9498042,Florida,FL
+259,"Traverse City, MI",1,44.7630567,-85.62063169999999,Grand Traverse County,MI
+260,"Lehi, UT",1,40.3916172,-111.8507662,Utah,UT
+261,"Holyoke, MA",1,42.2042586,-72.6162009,Massachusetts,MA
+262,"Emeryville, CA",1,37.831316,-122.2852473,California,CA
+263,"Hercules, CA",1,38.0171441,-122.2885808,California,CA
+264,"Bolingbrook, IL",1,41.69864159999999,-88.0683955,Will County,IL
+265,"Charleston, SC",1,32.7764749,-79.93105120000001,South Carolina,SC
+266,"Leesburg, VA",1,39.1156615,-77.56360149999999,Virginia,VA
+267,"Akron, OH",1,41.0814447,-81.51900529999999,Ohio,OH
+268,"Research Triangle Park, NC",1,35.8991678,-78.86364019999999,Triangle,NC
+269,"Coral Springs, FL",1,26.271192,-80.2706044,Florida,FL
+270,"Titusville, NJ",1,40.309579,-74.8770282,Upper Makefield Township,NJ
+271,"Glen Mills, PA",1,39.9016273,-75.5103484,Delaware County,PA
+272,"Johnston, IA",1,41.6709834,-93.7130493,Polk County,IA
+273,"Lakewood, CO",1,39.7047095,-105.0813734,Colorado,CO
+274,"Midland, TX",1,31.9973456,-102.0779146,Texas,TX
+275,"Burlington, NC",1,36.0956918,-79.43779909999999,North Carolina,NC
+276,"Knoxville, TN",1,35.9606384,-83.9207392,Tennessee,TN
+277,"Bethesda, MD",1,38.984652,-77.0947092,Montgomery County,MD
+278,"Broomfield, CO",1,39.9205411,-105.0866504,Colorado,CO
+279,"East Windsor, CT",1,41.9161361,-72.5578799,Connecticut,CT
+280,"Lake Oswego, OR",1,45.4156817,-122.7159726,Oregon,OR
+281,"Santa Rosa, CA",1,38.440429,-122.7140548,California,CA
+282,"Purchase, NY",1,41.0400135,-73.7144477,Harrison,NY
