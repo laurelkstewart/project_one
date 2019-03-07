@@ -1,3 +1,6 @@
+SLIDES:
+https://docs.google.com/presentation/d/1HkrUb6Oh579JPFzDsywRgH1e-LjGEsVJHzKgIT8lGY0/edit?usp=sharing
+
 Data Science employment prospects
 
 Team - Tunde Lawson, Jeff Fleischman, Laurel Stewart, April Schoenfeld
